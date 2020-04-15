@@ -1,4 +1,4 @@
-This epository contains python code for visualizing covid data.   Known issues are that the Maryland rest call for  covid data by zip code is broken.  It will be fixed once a new link is available.
+This epository contains python code for visualizing covid data.  Currently it focuses on Maryland covid cases by zipcode, with Washington DC added in as a whole.   There is also a US States visualization.
 
 Two python packages are needed.  They are:
 * [PyShp](https://pypi.org/project/pyshp/)
